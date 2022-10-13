@@ -1,0 +1,3 @@
+[submodule "rtlib"]
+	path = rtlib
+	url = https://github.com/RextTeam/rt-lib.git
